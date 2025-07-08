@@ -107,7 +107,7 @@ FAKE-NEWS-DETECTOR/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/malvika-rathod/Fake-news-Detector.git
 cd fake-news-detector
 ```
 
